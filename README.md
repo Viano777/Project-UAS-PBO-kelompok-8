@@ -1,5 +1,7 @@
-Project tugas UAS PBO Kelompok 8 
-- APLIKASI PENJUALAN TIKET BUS ONLINE BERBASIS DESKTOP dengan java netbeans
+Project untuk menyelesaikan project Ujian Akhir Semester matakuliah pemrograman berorientasi objek.
+
+
+APLIKASI PENJUALAN TIKET BUS ONLINE BERBASIS DESKTOP dengan java netbeans
 
 Nama anggota kelompok :
 - Alvin Malaviano T (23050974124)
